@@ -1,5 +1,6 @@
-// my first program that is pushing in to github
 #include <stdio.h>
 int main(){
-    printf("hello");
+    int b;
+    scanf("%3d",&b);
+    printf("%d",b);
 }
